@@ -1,0 +1,3 @@
+2022-04-04 20:03:17  [ main:5 ] - [ ERROR ]  This is error message.
+[ERROR][2022-04-04 20:04:32,230][com.liuxuan.Log4jDemo]This is error message.
+[ERROR][2022-04-04 20:10:00,291][com.liuxuan.Log4jDemo]This is error message.

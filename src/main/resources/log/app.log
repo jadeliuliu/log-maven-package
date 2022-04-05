@@ -1,0 +1,9 @@
+2022-04-04 20:03:17  [ main:0 ] - [ DEBUG ]  This is debug message.
+2022-04-04 20:03:17  [ main:5 ] - [ INFO ]  This is info message.
+2022-04-04 20:03:17  [ main:5 ] - [ ERROR ]  This is error message.
+[DEBUG][2022-04-04 20:04:32,226][com.liuxuan.Log4jDemo]This is debug message.
+[INFO][2022-04-04 20:04:32,229][com.liuxuan.Log4jDemo]This is info message.
+[ERROR][2022-04-04 20:04:32,230][com.liuxuan.Log4jDemo]This is error message.
+[DEBUG][2022-04-04 20:10:00,290][com.liuxuan.Log4jDemo]This is debug message.
+[INFO][2022-04-04 20:10:00,291][com.liuxuan.Log4jDemo]This is info message.
+[ERROR][2022-04-04 20:10:00,291][com.liuxuan.Log4jDemo]This is error message.
